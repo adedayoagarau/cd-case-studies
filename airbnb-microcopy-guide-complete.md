@@ -1349,7 +1349,13 @@ We've paused your account for security. Verify your identity: [link]"
 
 ## Related Documentation
 
-- [System Prompts](../airbnb-ai-prompts/)
-- [Dialogue Flows](../airbnb-dialogue-flows/)
-- [UX Design Specs](../airbnb-ux-screens/)
-- [Voice & Tone Guide](../airbnb-voice-tone/)
+**Main case study:**
+- [Complete Notion Case Study](./airbnb-notion-complete.md) - Full project with architecture, flows, and infrastructure
+- [README](./README.md) - Quick start guide and usage instructions
+
+**This guide sections:**
+- [Voice & Tone Guidelines](#voice-tone) - Brand voice principles
+- [Character Limits](#character-limits) - Platform constraints
+- [Button Labels](#buttons) - 50+ button copy examples
+- [Error Messages](#errors) - All error scenarios
+- [AI Templates](#ai-templates) - AI conversation patterns
