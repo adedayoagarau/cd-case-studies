@@ -29,7 +29,7 @@
 # 🤖 Airbnb AI-Mediated Messaging
 ## Designing Three-Way Conversations at Scale
 
-**By [Your Name]**
+**By Adedayo Agarau**
 Senior Content & Conversation Designer
 December 2025
 
@@ -721,7 +721,7 @@ Committing early to "always cite sources" and "show your work" forced better pro
 
 ### Let's Talk
 
-I'm [Your Name], a Senior Content & Conversation Designer specializing in AI systems, LLM optimization, and multi-modal content design.
+I'm Adedayo Agarau, a Senior Content & Conversation Designer specializing in AI systems, LLM optimization, and multi-modal content design.
 
 **What I do:**
 - Design conversation systems for AI-powered products
@@ -730,13 +730,13 @@ I'm [Your Name], a Senior Content & Conversation Designer specializing in AI sys
 - Build trust through transparency and thoughtful UX
 
 **Portfolio:**
-[Link to your portfolio]
+https://aagarau.notion.site
 
 **LinkedIn:**
-[Your LinkedIn]
+https://www.linkedin.com/in/adedayoagarau
 
 **Email:**
-[Your email]
+contact@adedayoagarau.com
 
 ---
 

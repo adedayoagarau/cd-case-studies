@@ -152,13 +152,13 @@ This directory contains a comprehensive case study demonstrating senior-level co
 
 ## 🤝 Connect
 
-**Created by:** [Your Name]
+**Created by:** Adedayo Agarau
 **Role:** Senior Content & Conversation Designer
 **Specialization:** AI systems, conversation design, content strategy
 
-**Portfolio:** [link]
-**LinkedIn:** [link]
-**Email:** [email]
+**Portfolio:** https://aagarau.notion.site
+**LinkedIn:** https://www.linkedin.com/in/adedayoagarau
+**Email:** contact@adedayoagarau.com
 
 ---
 
